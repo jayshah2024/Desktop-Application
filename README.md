@@ -1,3 +1,3 @@
 # Desktop-Application
 
-Event Management Application made using Java, Swing, JSP, Servlet and JSP.
+Event Management Application made using Java, Swing, JSP, Servlet and JDBC.
